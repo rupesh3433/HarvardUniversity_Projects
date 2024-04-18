@@ -6,7 +6,7 @@ Welcome to my repository for the Harvard University projects completed as part o
 
 ### Spacecraft Game
 - **Description:** This project is a simple spacecraft game created using Scratch. Navigate the spacecraft through space, avoiding obstacles and collecting points.
-- **File:** [`week0_HarvardUniversity_scratchGame.sb3`](week0_HarvardUniversity_scratchGame.sb3)
+- **File:** [week0_HarvardUniversity_scratchGame.sb3](https://github.com/rupesh3433/HarvardUniversity_Projects/blob/main/week0_HarvardUniversity_scratchGame.sb3)
 
 ## Getting Started
 
