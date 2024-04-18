@@ -1,14 +1,12 @@
-# Spacecraft Game Projects
+# Harvard University Projects
 
-Welcome to my Spacecraft Game projects repository for the CS50: Introduction to Computer Science course at Harvard University!
+Welcome to my repository for the Harvard University projects completed as part of the CS50: Introduction to Computer Science course!
 
-This repository contains the Scratch projects that I created as part of the course assignments related to Week 0.
+## Week 0 - Scratch Game
 
-## Projects Included
-
-1. **Week 0 Scratch Game**
-   - **File:** [`week0_HarvardUniversity_scratchGame.sb3`](week0_HarvardUniversity_scratchGame.sb3)
-   - **Description:** This project is a simple spacecraft game created using Scratch. Navigate the spacecraft through space, avoiding obstacles and collecting points!
+### Spacecraft Game
+- **Description:** This project is a simple spacecraft game created using Scratch. Navigate the spacecraft through space, avoiding obstacles and collecting points.
+- **File:** [`week0_HarvardUniversity_scratchGame.sb3`](week0_HarvardUniversity_scratchGame.sb3)
 
 ## Getting Started
 
