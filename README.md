@@ -48,6 +48,20 @@ Welcome to my repository for the Harvard University projects completed as part o
 - **Description:** Implement a program that encrypts messages using a substitution cipher.
 - **File:** [substitution.c](week2-c-project/substitution/substitution.c)
 
+## Week 3 - Sorting Algorithms Analysis
+
+### Sorting Algorithms Analysis
+- **Description:**
+   ->In this project, I conducted an analysis of three different sorting algorithms: selection sort, bubble sort, and merge sort by examining the behavior of three compiled C programs (sort1, sort2, sort3) on various input datasets.
+
+   ->After downloading and extracting the provided distribution code, I ran each sorting program on different types of input files (e.g., sorted, reversed, random) to observe their performance characteristics.
+
+   ->Through this analysis, I determined that sort1 implements bubble sort, identified by its quadratic time complexity and slower performance on reversed input.
+
+   ->sort2 was identified as merge sort due to its efficient O(n log n) performance across all input types.
+
+   ->Lastly, sort3 exhibited the characteristics of selection sort, showing inefficiency (O(n^2)) and slowdown with larger datasets or reversed lists.
+
 ## Getting Started
 
 To view and run the projects in this repository, follow these steps:

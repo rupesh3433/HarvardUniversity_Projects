@@ -1,0 +1,20 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+We can tell that 'sort1' is using Bubble Sort because it behaves like a classic Bubble Sort algorithm.
+It's compatatively slower when sorting a reversed list compared to a sorted list.
+This slowdown is typical problem of Bubble Sort, which becomes less efficient as the input size increases due to its quadratic time complexity.
+
+sort2 uses: Merge Sort
+
+How do you know?:
+The behavior of 'sort2' indicates that it's using Merge Sort.
+It consistently performs well across different types of input, maintaining a stable and predictable sorting time.
+Merge Sort's efficient performance and divide and conquer approach are provided in 'sort2'.
+
+sort3 uses: Selection Sort
+
+How do you know?:
+The performance of 'sort3' suggests that it's utilizing Selection Sort.
+This algorithm shows a consistent slowdown as the input size grows, particularly struggling with larger datasets or lists that are reversed.
+Selection Sort's inefficiency for larger datasets and quadratic time complexity are clearly reflected in the behavior of 'sort3'.
